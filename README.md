@@ -1,4 +1,4 @@
-# Desafio da [DIO](www.dio.me) - Trilha Java Básico POO
+# Desafio da DIO - Trilha Java Básico POO
 ## Desafio de Projeto
 O desafio é diagramar e modelar um Iphone em `UML` e `código` baseado-se no vídeo do lançamento do primeiro Iphone, onde Steve Jobs anuncia que o Iphone é a junção de um reprodutor musical, um aparelho telefônico e um dispositivo de comunicação com a internet (navegador).
 
